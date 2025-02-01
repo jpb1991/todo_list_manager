@@ -1,3 +1,5 @@
+CHatGPT created this file.
+
 # To-Do List Manager (Python)
 
 A simple command-line-based To-Do List Manager that allows users to manage their tasks. It provides options to add, view, complete, and remove tasks, while saving the data to a JSON file for persistence.
